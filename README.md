@@ -10,5 +10,5 @@ Notebook demonstrating the text detection, OCR, and anlysis process. Uses functi
 ## [**product_packaging_ocr.py**](product_packaging_ocr.py)
 The core functions for text detection, interpretation, and comparison to groundtruth.
 
-##[**product_packaging_ocr_iterative.py**](product_packaging_ocr_iterative.py)
+## [**product_packaging_ocr_iterative.py**](product_packaging_ocr_iterative.py)
 Calls core functions multiple times for improved detection accuracy.
